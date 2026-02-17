@@ -81,3 +81,9 @@ Permanent URL: this site.
 ## Phases
 
 - **[Phase I — Initial Forensic Audit](/keystone-sovereignty-protocol/phases/phases/phase-1)**
+# Keystone Sovereignty Protocol
+
+## Phase I — Initial Forensic Audit
+
+- **Keystone Sovereignty Protocol — Phase I (PDF)**  
+  [Download PDF](/keystone-sovereignty-protocol/assets/pdfs/Keystone_Sovereignty_Protocol_Phase_I.pdf)
