@@ -22,20 +22,6 @@ Assembly on notice of measurable, ongoing fiscal forfeiture.
 - Keystone Sovereignty Protocol — Phase I (Primary Filing)
 - Exhibit A — Forensic Data Supplement
 
----
-
-## Access to Filed Materials
-
-The original Phase I documents are provided below as issued.
-
-- **Keystone Sovereignty Protocol — Phase I (PDF)**  
-  *(link to be added)*
-
-- **Exhibit A — Forensic Data Supplement (PDF)**  
-  *(link to be added)*
-
----
-
 ## Record Integrity
 
 This page reproduces the Phase I filing as issued.
@@ -43,3 +29,12 @@ This page reproduces the Phase I filing as issued.
 No content has been revised, summarized, or recharacterized.
 Subsequent phases may reference or update figures but do not alter this
 record unless explicitly stated.
+---
+
+## Filed Documents (PDF)
+
+- **Keystone Sovereignty Protocol — Phase I**  
+  [Download PDF](/keystone-sovereignty-protocol/assets/pdfs/Keystone_Sovereignty_Protocol_Phase_I.pdf)
+
+- **Exhibit A — Forensic Data Supplement**  
+  [Download PDF](/keystone-sovereignty-protocol/assets/pdfs/Exhibit_A_Forensic_Data_Supplement.pdf)
