@@ -76,3 +76,10 @@ Hughes, Daniel. *The Keystone Sovereignty Protocol: A Forensic Fiscal
 Record for the Commonwealth of Pennsylvania.*  
 GitHub Pages archive. First published February 2026.  
 Permanent URL: this site.
+---
+
+## Phases
+
+- **[Phase I — Initial Forensic Audit](/keystone-sovereignty-protocol/phases/phase-1)**
+  - Filed: February 17, 2026
+  - Status: Released
