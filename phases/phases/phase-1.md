@@ -35,6 +35,3 @@ record unless explicitly stated.
 
 - **Keystone Sovereignty Protocol — Phase I**  
   [Download PDF](/keystone-sovereignty-protocol/assets/pdfs/Keystone_Sovereignty_Protocol_Phase_I.pdf)
-
-- **Exhibit A — Forensic Data Supplement**  
-  [Download PDF](/keystone-sovereignty-protocol/assets/pdfs/Exhibit_A_Forensic_Data_Supplement.pdf)
