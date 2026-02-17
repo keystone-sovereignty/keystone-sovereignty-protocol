@@ -80,6 +80,4 @@ Permanent URL: this site.
 
 ## Phases
 
-- **[Phase I — Initial Forensic Audit](/keystone-sovereignty-protocol/phases/phase-1)**
-  - Filed: February 17, 2026
-  - Status: Released
+- **[Phase I — Initial Forensic Audit](/keystone-sovereignty-protocol/phases/phases/phase-1)**
