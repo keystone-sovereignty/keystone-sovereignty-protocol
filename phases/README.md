@@ -31,23 +31,3 @@ remain sealed until formally published.
   *Filed:* February 17, 2026  
   *Status:* Released
 
-- **Phase II** — Accumulation & Liability Update  
-  *Status:* Not yet published
-
-- **Phase III** — Forensic Casualty Report  
-  *Status:* Not yet published
-
-- **Phase IV / IV-A** — Fiscal Drift & Appropriations Alignment  
-  *Status:* Not yet published
-
-- **Phase V** — Terminal Procedural Window (The Clerk)  
-  *Status:* Not yet published
-
-- **Phase VI** — Classification  
-  *Status:* Reserved
-
-- **Phase VII** — Post-Mortem Fiscal Attribution  
-  *Status:* Not yet published
-
-- **Phase VIII** — Challenger’s Dossier (Open Source Accountability)  
-  *Status:* Not yet published
